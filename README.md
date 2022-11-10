@@ -1,6 +1,9 @@
 ### Opa!
-⋅ Curso Ciência da Computação
-⋅ contato: gss162020@gmail.com
+💻⋅ Curso Ciência da Computação
+
+🎨⋅ Front-End (Photoshop e Illustrator)
+
+📧⋅ Contato: gss162020@gmail.com
 <div align="center">
   <a href="https://github.com/gsanchexs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gsanchexs&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -12,7 +15,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-###
+ ##
   
 <div>
   <a href="https://www.instagram.com/gsanchexs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
