@@ -1,7 +1,8 @@
 ### Opa!
-💻⋅ Curso Ciência da Computação
+💻⋅ Cientista da Computação
 
 🎨⋅ Front-End (Photoshop e Illustrator)
+⚙️⋅ Hardware Avançado
 
 📧⋅ Contato: gss162020@gmail.com
 <div align="left">
