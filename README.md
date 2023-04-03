@@ -1,7 +1,7 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Front-End (Photoshop e Illustrator)
+🎨⋅ Front-End (HTML, CSS, JS e Photoshop)
 
 ⚙️⋅ Hardware Avançado
 
