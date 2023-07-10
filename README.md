@@ -1,11 +1,11 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Front-End (HTML, CSS, JS e Photoshop)
+🎨⋅ Front-End (HTML, CSS, JS, React e Photoshop)
 
-⚙️⋅ Hardware Avançado
+⚙️⋅ Hardware Avançado (Estudando firmware)
 
-📧⋅ Contato: gss162020@gmail.com
+📧⋅ Contato: gsanchexs.dev@gmail.com
 <div align="left">
   <a href="https://github.com/gsanchexs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gsanchexs&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
