@@ -1,9 +1,9 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Front-End (HTML, CSS, JS, React e Photoshop)
+🎨⋅ Front-End -> React・JavaScript・Node.js・Bootstrap・mySQL
 
-⚙️⋅ Hardware Avançado (Estudando firmware)
+⚙️⋅ Hardware Avançado (Entusiasta para estudar firmware)
 
 📧⋅ Contato: gsanchexs.dev@gmail.com
 <div align="left">
