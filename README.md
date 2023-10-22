@@ -1,7 +1,11 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Front-End -> React・JavaScript・Node.js・Bootstrap・mySQL
+🎨⋅ Front-End -> React・JavaScript・Node.js・Bootstrap
+
+🧩⋅ Python & Java 
+
+🎲⋅ SQL, mySQL, SQL Server, Power BI
 
 ⚙️⋅ Hardware Avançado (Entusiasta para estudar firmware)
 
