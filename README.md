@@ -1,7 +1,7 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Front-End -> React・JavaScript・Node.js・Bootstrap
+🎨⋅ React・JavaScript・Node.js・Bootstrap
 
 🧩⋅ Python & Java 
 
