@@ -1,11 +1,13 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ JavaScript・React.js・Node.js・Bootstrap
+🎨⋅ Bootstrap・JavaScript・React.js
 
-🎲⋅ SQL, mySQL, SQL Server, Power BI
+📚・Learning: Angular・Sass
 
-⚙️⋅ Hardware Avançado (Entusiasta para estudar firmware)
+🎲⋅ SQL, mySQL, Power BI
+
+⚙️⋅ Hardware Avançado
 
 📧⋅ Contato: gsanchexs.dev@gmail.com
 
