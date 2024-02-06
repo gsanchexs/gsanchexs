@@ -12,7 +12,7 @@
 📧⋅ Contato: gsanchexs.dev@gmail.com
 
 <div>
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanchexs&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
