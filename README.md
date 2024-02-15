@@ -1,11 +1,11 @@
 ### Opa!
 💻⋅ Cientista da Computação
 
-🎨⋅ Bootstrap・JavaScript・React.js
+🎨⋅ Bootstrap 5・JavaScript・Sass
 
-📚・Learning: Angular・Sass
+📚・Learning: React.js / React Native
 
-🎲⋅ SQL, mySQL, Power BI
+🎲⋅ mySQL, Power BI
 
 ⚙️⋅ Hardware Avançado
 
