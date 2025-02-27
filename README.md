@@ -1,29 +1,15 @@
-### Opa!
-💻⋅ Cientista da Computação
+## Olá!
 
-🎨⋅ Bootstrap 5・JavaScript・Sass
+Me chamo Gabriel Sanches, tenho 20 anos e atuo como Analista de Infraestrutura Cloud Júnior.
 
-📚・Learning: React.js / React Native
+Trabalho atualmente com virtualização, utilizando o VMware vSphere ESXi e vCenter. Gerência de redes com pfsense e MikroTik. Conhecimento prévio básico em virtualização de ambientes em PROXMOX.
 
-🎲⋅ mySQL, Power BI
+Atualmente foco muito em ambientes linux e estou me aprofundando em orquestração de containers em Kubernetes. Minha meta é ser um bom engenheiro de DevOps futuramente, por isso, estou pegando tudo o que eu posso aprender nas áreas de cloud computing para somar no meu conhecimento.
 
-⚙️⋅ Hardware Avançado
+### ***Abstract***
 
-📧⋅ Contato: gsanchexs.dev@gmail.com
+My name is Gabriel Sanches, I'm 20 years old and I work as a Junior Cloud Infrastructure Analyst.
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsanchexs&theme=tokyonight"/>
-</div>
+I currently work with virtualization, using VMware vSphere ESXi and vCenter. Network management with pfsense and MikroTik. Basic prior knowledge in virtualization of environments in PROXMOX.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
- ##
-<div>
-  <a target="_blank" href="https://www.instagram.com/gsanchexs/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a target="_blank" href = "mailto:gsanchexs.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+I currently focus a lot on Linux environments and I'm delving deeper into container orchestration in Kubernetes. My goal is to be a good DevOps engineer in the future, so I'm taking everything I can learn in the areas of cloud computing to add to my knowledge.
