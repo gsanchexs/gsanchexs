@@ -14,4 +14,4 @@ I currently work with virtualization, using VMware vSphere ESXi and vCenter. Net
 
 I currently focus a lot on Linux environments and I'm delving deeper into container orchestration in Kubernetes. My goal is to be a good DevOps engineer in the future, so I'm taking everything I can learn in the areas of cloud computing to add to my knowledge.
 
-(https://github-readme-stats.vercel.app/api?username=gsanchexs\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gsanchexs\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/gsanchexs/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
